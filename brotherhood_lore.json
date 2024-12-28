@@ -1,0 +1,89 @@
+[
+    {
+          "id": "brotherhood_overview",
+          "content": "The Brotherhood of Steel in the Commonwealth is a chapter of the East Coast Brotherhood of Steel, led by Elder Arthur Maxson. The Commonwealth chapter operates out of Boston Airport and the mobile command airship, the Prydwen. Despite their regional focus, the Commonwealth Brotherhood receives orders from the Citadel in the Capital Wasteland.",
+          "metadata": {
+            "faction": "Brotherhood of Steel",
+            "region": "Commonwealth",
+            "topic": "Overview"
+          }
+    },
+    {
+          "id": "brotherhood_background_capital_wasteland",
+          "content": "The Commonwealth chapter of the Brotherhood originated around 2280 with several recon missions and an expedition sent from Washington, D.C. to locate a strange signal intercepted in the Capital Wasteland. The Brotherhood had first arrived on the East Coast in 2255, setting up operations in Washington. Initially sent from California to recover advanced technology and reconnect with other Brotherhood chapters, the expedition led by Paladin Owyn Lyons established itself in the Pentagon ruins, rechristened the Citadel. Lyons shifted the chapter's priorities to safeguarding wastelanders and open recruitment, leading to the Schism and the creation of the Brotherhood Outcasts.",
+          "metadata": {
+            "faction": "Brotherhood of Steel",
+            "region": "Capital Wasteland",
+            "topic": "Background"
+          }
+    },
+    {
+          "id": "brotherhood_background_lyons_era",
+          "content": "In 2277, the Enclave emerged to seize Project Purity. With the aid of Dr. Madison Li and a Vault 101 dweller, the Brotherhood defeated the Enclave, securing clean water and Enclave resources. Lyons and his daughter Sarah passed shortly after, and the chapter suffered under weak leadership. Arthur Maxson, appointed elder at 16, reunited the Outcasts and began constructing the Prydwen using Enclave technology from Adams Air Force Base.",
+          "metadata": {
+            "faction": "Brotherhood of Steel",
+            "region": "Capital Wasteland",
+            "topic": "Background"
+          }
+    },
+    {
+          "id": "brotherhood_background_commonwealth",
+          "content": "The Brotherhood began reconnaissance missions to the Commonwealth in 2280. The first recon team brought back crates of pre-War technology. In 2284, Recon Squad Artemis, led by Paladin Brandis, was ambushed and suffered heavy losses. Brandis, the only survivor, took refuge in Recon Bunker Theta. In 2287, Recon Squad Gladius, led by Paladin Danse, established operations at Cambridge Police Station, encountering resistance but securing the area.",
+          "metadata": {
+            "faction": "Brotherhood of Steel",
+            "region": "Commonwealth",
+            "topic": "Recon Missions"
+          }
+    },
+    {
+          "id": "brotherhood_arrival_prydwen",
+          "content": "In 2287, the Prydwen arrived in the Commonwealth to establish Boston Airport as its headquarters. The Brotherhood deployed a sizable combat force to secure the airport from feral ghouls. The Prydwen served as a command center, aircraft carrier, clinic, and research facility. The Brotherhood declared war on the Institute, prioritizing the repair of Liberty Prime to destroy the faction.",
+          "metadata": {
+            "faction": "Brotherhood of Steel",
+            "region": "Commonwealth",
+            "topic": "Arrival and Operations"
+          }
+    },
+    {
+          "id": "brotherhood_policies",
+          "content": "Under Elder Maxson's leadership, the Brotherhood emphasized the preservation of technology over aiding wastelanders. Recruitment became more selective, requiring sponsorship from within the Brotherhood. Non-humans, such as ghouls, super mutants, and synths, were targeted for extermination, although some individuals were tolerated. The Brotherhood maintained relationships with settlements in the Capital Wasteland, distributing water and providing aerial escorts.",
+          "metadata": {
+            "faction": "Brotherhood of Steel",
+            "topic": "Policies"
+          }
+    },
+    {
+          "id": "brotherhood_technology",
+          "content": "The Brotherhood utilizes advanced technology, including the Prydwen, Vertibirds, and Liberty Prime. Their armaments include laser and plasma weapons, with power armor, primarily T-60 models, for combat. The Brotherhood's logistics system supports the recovery of valuable technology and supplies members with standard equipment for missions.",
+          "metadata": {
+            "faction": "Brotherhood of Steel",
+            "topic": "Technology and Armaments"
+          }
+    },
+    {
+          "id": "brotherhood_locations",
+          "content": "Key locations include the Prydwen, Boston Airport, Cambridge Police Station, Fort Strong, Mass Fusion Building, and Recon Bunker Theta. Additional checkpoints and outposts are scattered across the Commonwealth, with strategic sites like Fort Strong providing mini nukes for the Brotherhood's arsenal.",
+          "metadata": {
+            "faction": "Brotherhood of Steel",
+            "region": "Commonwealth",
+            "topic": "Locations"
+          }
+    },
+    {
+          "id": "brotherhood_references_dialogue",
+          "content": "Lancer Captain Kells: 'Attention. Ferrum Squad, report to debriefing.'\nKnight Lucia: 'The battle for the airport was everything I had hoped for. The Prydwen coming in under full Vertibird escort was a sight to behold.'\nPaladin Danse: 'Over the last seven years, two other teams were sent here by the Brotherhood. The first was successful, but the second vanished.'",
+          "metadata": {
+            "faction": "Brotherhood of Steel",
+            "type": "Dialogue",
+            "topic": "References"
+          }
+    },
+    {
+          "id": "brotherhood_iconography",
+          "content": "The Brotherhood's symbols include a light grey insignia on dark grey combat armor and an orange flag with a white Brotherhood emblem. The primary power armor used is T-60, though older models like T-45d remain in limited use.",
+          "metadata": {
+            "faction": "Brotherhood of Steel",
+            "topic": "Iconography"
+          }
+    }
+  ]
